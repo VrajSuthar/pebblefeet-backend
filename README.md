@@ -7,6 +7,10 @@ customers.
 
 > For the full write-up (every endpoint, the checkout flow, business rules and edge cases), see
 > [BACKEND_GUIDE.md](BACKEND_GUIDE.md).
+>
+> Connecting a frontend:
+> [Next.js website guide](docs/NEXTJS_WEBSITE_API_GUIDE.md) ·
+> [Next.js admin panel guide](docs/NEXTJS_ADMIN_API_GUIDE.md)
 
 ## Features
 
